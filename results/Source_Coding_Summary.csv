@@ -1,0 +1,2 @@
+SourceSymbolRate_Hz,Entropy_bits_per_symbol,InformationRate_bits_per_second,AverageCodeLength_bits_per_symbol,HuffmanEncodedRate_bits_per_second,Efficiency
+1000,1.84643934467102,1846.43934467102,1.9,1900,0.971810181405798

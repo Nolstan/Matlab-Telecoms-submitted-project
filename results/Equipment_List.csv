@@ -1,0 +1,13 @@
+EquipmentCategory,Quantity,Unit,AssumedUnitCost_USD,ExtendedCost_USD
+Radios,14,radio,600,8400
+Dish antennas,14,antenna,250,3500
+Panel antennas,0,antenna,150,0
+Yagi antennas,0,antenna,80,0
+Feeder cable,420,m,2,840
+Connectors,28,connector,15,420
+Masts,5,mast,500,2500
+Power and backup,5,site system,1200,6000
+Lightning protection,5,kit,100,500
+TOTAL,NaN,USD,NaN,22160
+Budget cap,NaN,USD,25000,25000
+Budget remaining,NaN,USD,NaN,2840

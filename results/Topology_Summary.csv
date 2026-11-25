@@ -1,0 +1,4 @@
+Topology,NumberOfLinks,LongestLink_km,MaximumSiteHops,MinimumLinkMargin_dB,EquipmentCost_USD,MinimumSiteAvailability
+Tree,4,8,2,30.4277564784101,16520,0.998585063508333
+Star,4,11.7046999107196,1,27.1223505466849,16520,0.998062044575652
+Tree with direct backup links,7,11.7046999107196,1,27.1223505466849,22160,0.999094209861656

@@ -1,0 +1,2 @@
+PacketLength_bits,LinkRate_Mbps,WorstPath_km,TransmissionDelay_ms,PropagationDelay_ms,ProcessingDelay_ms,QueueingDelay_ms,TotalPacketDelay_ms
+12000,20,14,1.2,0.0466989733277413,4,6,11.2466989733277

@@ -1,0 +1,7 @@
+Link,Distance_km,DuplexMethod,FrameDuration_ms,GuardTime_ms,GuardOverhead_percent,NetDownlinkRate_Mbps,NetUplinkRate_Mbps
+A-B: Central to Intermediate,8,"TDD, shared channel",1,0.153370255231704,15.3370255231704,7.11168985605368,3.04786708116586
+B-C: Intermediate to Health Centre,4,"TDD, shared channel",1,0.153370255231704,15.3370255231704,7.11168985605368,3.04786708116586
+B-D: Intermediate to Secondary School,5,"TDD, shared channel",1,0.153370255231704,15.3370255231704,7.11168985605368,3.04786708116586
+B-E: Intermediate to Information Centre,6,"TDD, shared channel",1,0.153370255231704,15.3370255231704,7.11168985605368,3.04786708116586
+TDD/FDD comparison,0,"See comparison",1,0.153370255231704,15.3370255231704,7.11168985605368,3.04786708116586
+TDD/FDD comparison,0,"See comparison",1,0,0,8.4,3.6

@@ -1,0 +1,4 @@
+ServiceSite,Demand_Mbps,AllocatedTdmSlotRate_Mbps,UnusedSlotCapacity_Mbps
+Health Centre,3,3,0
+Secondary School,2,3,1
+Information Centre,2,3,1

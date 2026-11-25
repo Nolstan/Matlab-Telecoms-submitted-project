@@ -1,0 +1,4 @@
+LineCode,MeanLevel,PSD_at_0Hz,FirstNull_cycles_per_bit,99PercentPowerBandwidth_cycles_per_bit,TransitionDensity_per_bit,LongestRunWithoutTransition_bits,Suitability
+NRZ-L,-0.0114,0.262524550384808,1,3.4453125,0.5033,12,Simple; possible DC and long transition-free runs
+Manchester,0,4.03289600115774e-05,2,3.375,1.4966,1,Self-clocking; higher bandwidth
+AMI,0.0001,0.00199280255886901,1,3.53125,0.7459,11,Low DC; timing can fail on long zero runs

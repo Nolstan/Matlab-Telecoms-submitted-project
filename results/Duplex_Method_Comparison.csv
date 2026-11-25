@@ -1,0 +1,3 @@
+DuplexMethod,AllocatedBandwidth_MHz,DownlinkRate_Mbps,UplinkRate_Mbps,GuardOverhead_percent,Description
+TDD,10,7.11168985605368,3.04786708116586,15.3370255231704,"Time-separated directions on shared RF channel"
+FDD,10,8.4,3.6,0,"Paired frequency channels, no TDD guard interval"

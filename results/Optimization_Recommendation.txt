@@ -1,0 +1,1 @@
+Highest weighted option: Modulation (QPSK), score 0.713. With cost weight multiplied by 2.00, winner: Modulation (QPSK).

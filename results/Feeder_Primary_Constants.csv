@@ -1,0 +1,2 @@
+Frequency_Hz,R_ohm_per_m,L_H_per_m,G_S_per_m,C_F_per_m,Z0_Real_ohm,Z0_Imag_ohm,Z0_Magnitude_ohm,Alpha_Np_per_m,Beta_rad_per_m,Attenuation_dB_per_100m,PhaseVelocity_m_per_s,VelocityFactor
+900000000,0.157567719431667,2.5e-07,1e-06,1e-10,50.0000000800459,-0.00274219933577217,50.0000001552424,0.00160067719190936,28.2743339248308,1.39033054349885,199999999.699214,0.667128189392989

@@ -1,0 +1,6 @@
+Scenario,StageOrder,LNAGain_dB,CascadeNoiseFigure_dB,NoiseFloor_dBm,WeakLinkReceivedPower_dBm,WeakLinkSNR_dB,WeakestLink
+Baseline: feeder/filter before LNA,"Feeder, preselector, LNA, filter, mixer, IF",20,5.18218910848714,-98.792998085741,-42.8776494533151,55.9153486324259,A-D (direct)
+LNA before preselector,"Feeder, LNA, preselector, filter, mixer, IF",20,2.84656741990058,-101.128619774328,-42.8776494533151,58.2509703210124,A-D (direct)
+No feeder loss ahead of LNA,"No pre-LNA feeder loss",20,4.69328392294655,-99.2819032712816,-42.8776494533151,56.4042538179665,A-D (direct)
+LNA gain 10 dB,"Baseline, LNA gain 10 dB",10,6.61784805062691,-97.3573391436012,-42.8776494533151,54.4796896902861,A-D (direct)
+LNA gain 30 dB,"Baseline, LNA gain 30 dB",30,5.00862529815575,-98.9665618960724,-42.8776494533151,56.0889124427573,A-D (direct)

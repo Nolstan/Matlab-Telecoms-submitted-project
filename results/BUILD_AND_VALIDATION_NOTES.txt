@@ -1,0 +1,9 @@
+Latest build and validation — 2026-11-24
+
+Command: MATLAB `main` (full 25-module run)
+Result: completed; 9 requirements PASS, 1 FAIL.
+The sole failed check is 60% Fresnel clearance on all seven paths under assumed heights/obstacles, including effective-earth curvature. Largest shortfall: 11.249 m on A-D. See `Fresnel_Clearance_Results.csv` for every path's margin and additional midpoint height estimate.
+
+Selected illustrative setting: 900 MHz, 10 MHz, 27 dBm TX, 23 dBi antennas, QPSK, rate-0.75 FEC, TDD. Friis cascade NF: 5.182 dB. EIRP: 49.51 dBm (regulatory compliance not checked). Minimum selected topology site availability: 0.999094 (target 0.999); weakest residual link fade margin: 27.122 dB. Trunk payload allocation: 10.160 Mbps; branch allocations: 5.080, 2.540, and 2.540 Mbps. Assumed equipment total: $22,160 / $25,000.
+
+All inputs remain assumptions; route availability assumes independent radio-path outages and omits common-cause failures. This is not a field or regulatory validation. MATLAB emits a nonfatal variable-name normalization warning when loading the line-code CSV into the result MAT file.

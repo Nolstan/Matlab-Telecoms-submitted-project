@@ -1,0 +1,8 @@
+Link,TxAntenna,RxAntenna,Reason
+A-B,Parabolic dish,Parabolic dish,"Highest illustrative gain on longest trunk"
+B-C,Directional panel,Yagi antenna,"Panel sector at B, compact directional terminal"
+B-D,Directional panel,Yagi antenna,"Panel sector at B, compact directional terminal"
+B-E,Directional panel,Yagi antenna,"Panel sector at B, compact directional terminal"
+A-C backup,Directional panel,Yagi antenna,"Backup direct path; directional end antennas"
+A-D backup,Directional panel,Yagi antenna,"Backup direct path; directional end antennas"
+A-E backup,Directional panel,Yagi antenna,"Backup direct path; directional end antennas"

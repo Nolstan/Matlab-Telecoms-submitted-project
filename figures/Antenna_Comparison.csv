@@ -1,0 +1,3 @@
+Antenna,IllustrativeGain_dBi,IllustrativeBeamwidth_deg,TypicalUse
+Parabolic dish,23,8,Long point-to-point backhaul
+Directional panel,18,35,Shorter distribution links

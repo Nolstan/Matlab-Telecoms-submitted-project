@@ -1,0 +1,43 @@
+Rural Telecommunications Project started: 24-Nov-2026 16:06:28
+
+[1/25] Legacy network model
+[2/25] Legacy link budget
+A-B FSPL 125.78 dB, Pr -64.90 dBm, SNR 31.06 dB, residual fade margin 5.10 dB; weakest residual margin 2.60 dB
+[3/25] Legacy Fresnel analysis
+[4/25] Legacy antenna and feeder analysis
+[5/25] Legacy line coding
+[6/25] Legacy source coding
+[7/25] Legacy modulation BER
+[8/25] Legacy channel coding
+[9/25] Legacy multiplexing and capacity
+Legacy assignment TDM utilization 77.8%
+[10/25] Legacy switching diversity
+[11/25] Legacy final summary
+[12/25] Feeder primary-constant model at recommended carrier
+Coax Z0 50.00 ohm, attenuation 1.39 dB/100 m
+[13/25] Duplex and service classification
+[14/25] Extended seven-path link budget
+[15/25] Topology comparison from link budgets
+[16/25] Circuit versus packet switching
+Switching recommendation: Packet switching recommended for bursty multi-service traffic at low/moderate load; circuit reservation has predictable delay but can block.
+[17/25] Antenna parameter comparison
+[18/25] Line-code spectral comparison
+[19/25] Receiver noise cascade
+[20/25] Link capacity and TDM sizing
+Maximum radio utilization 68.9%
+[21/25] Modulation, coding and Shannon comparison
+[22/25] Propagation effects and diversity
+[23/25] Weighted design optimization
+Weighted recommendation: Modulation — QPSK
+[24/25] Final design and equipment summary
+Redundant equipment estimate $22160 against $25000 cap
+[25/25] Requirements check (must run last)
+Requirements: 9 PASS, 1 FAIL
+[Warning: Column headers from the file were modified to make them valid MATLAB
+identifiers before creating variable names for the table. The original column
+headers are saved in the VariableDescriptions property.
+Set 'VariableNamingRule' to 'preserve' to use the original column headers as
+table variable names.] 
+
+Completed all modules. Results: /home/nolstan/Desktop/MATLAB LICENCE/Rural_Telecommunications_MATLAB_Project/Rural_Telecommunications_Project/results
+Selected-design weakest received power -42.88 dBm; minimum residual fade margin 27.12 dB; maximum radio utilization 68.9%

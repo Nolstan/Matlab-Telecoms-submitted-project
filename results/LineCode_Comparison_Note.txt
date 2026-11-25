@@ -1,0 +1,1 @@
+Line codes are baseband representations. RF modulation and radio channel bandwidth are selected separately in modulation_comparison.m.

@@ -1,0 +1,2 @@
+Packet switching recommended for bursty multi-service traffic at low/moderate load; circuit reservation has predictable delay but can block.
+Blocking probability (Erlang B): 0.000000

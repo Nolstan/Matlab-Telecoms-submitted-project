@@ -1,0 +1,5 @@
+Link,Distance_km,FresnelRadius_m,Required60Percent_m,AssumedObstacleHeight_m
+A-B: Central to Intermediate,8.0,10.16743377923714,6.100460267542283,8
+B-C: Intermediate to Health Centre,4.0,7.1894613725637475,4.313676823538248,8
+B-D: Intermediate to Secondary School,5.0,8.03806217533074,4.822837305198444,8
+B-E: Intermediate to Information Centre,6.0,8.805255944115384,5.28315356646923,8

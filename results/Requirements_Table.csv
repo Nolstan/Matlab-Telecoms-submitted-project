@@ -1,0 +1,11 @@
+Requirement,Target,Unit,VerifiedBy,AchievedValue,Pass,Status
+Site C minimum payload rate,3,Mbps,link_capacity_check,5.07977846860977,1,PASS
+Site D minimum payload rate,2,Mbps,link_capacity_check,2.53988923430489,1,PASS
+Site E minimum payload rate,2,Mbps,link_capacity_check,2.53988923430489,1,PASS
+Trunk minimum payload rate,7,Mbps,link_capacity_check,10.1595569372195,1,PASS
+Small-message end-to-end packet delay,50,ms,switching_comparison,5.64669897332774,1,PASS
+Minimum end-to-end site availability with selected backup topology,0.999,fraction,topology_comparison,0.999094209861656,1,PASS
+At least 60% first-Fresnel clearance on every modeled path,0,m minimum margin,propagation_fresnel,-11.248560921872,0,FAIL
+Weakest-link uncoded BPSK BER,1e-06,BER,modulation_comparison (theory at weakest-link SNR),0,1,PASS
+Maximum radio utilization,1,fraction,link_capacity_check,0.689006424517933,1,PASS
+Redundant design equipment cost,25000,USD maximum,final_design_summary,22160,1,PASS
